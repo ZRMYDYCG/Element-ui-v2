@@ -28,6 +28,14 @@ v-load
 
 v-copy
 
+也会进行一些组件的二次封装：
+
+Table
+
+input
+
+checkbox
+
 ## cli 脚手架官网
 
 https://cli.vuejs.org/config/
@@ -52,6 +60,8 @@ https://cli.vuejs.org/config/
 三、[强制使用 pnpm 包管理器工具](https://blog.csdn.net/XiugongHao/article/details/135847195)
 
 四、[【VSCode】VSCode侧边栏中git不见了解决方法](https://blog.csdn.net/weixin_43919327/article/details/124856521)
+
+五、[vue项目关于：Error: Cannot find module ‘D:\@vue\cli-service\bin\vue-cli-service.js‘的解决方案](https://blog.csdn.net/qq135595696/article/details/118977818)
 
 ## 项目开发过程中的插件
 
