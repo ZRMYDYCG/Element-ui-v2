@@ -6,15 +6,19 @@
     "serve": "vue-cli-service serve",
     "serve:production": "vue-cli-service serve --mode production",
     "build": "vue-cli-service build",
-    "build:dev": "vue-cli-service --mode development"
+    "build:dev": "vue-cli-service --mode development",
+    "preinstall": "node ./scripts/preinstall.js"
   },
   "dependencies": {
     "core-js": "^3.8.3",
+    "normalize.css": "^8.0.1",
     "vue": "^2.6.14"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~5.0.0",
     "@vue/cli-service": "~5.0.0",
+    "node-sass": "^9.0.0",
+    "sass-loader": "^14.2.1",
     "vue-template-compiler": "^2.6.14"
   }
 }
